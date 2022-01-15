@@ -1,5 +1,5 @@
 # Certificates
-## Coursera Deep Learning Specialization [Certificate](Coursera/Coursera_Deep_Learning_Specialization.pdf)
+## Coursera Deep Learning Specialization ([Certificate](Coursera/Coursera_Deep_Learning_Specialization.pdf))
 * [Coursera Neural Networks and Deep Learning](Coursera/Coursera_Neural_Networks_and_Deep_Learning.pdf)
 * [Coursera Improving Deep Neural Networks Hyperparameter Tuning Regulariation and Optimization](Coursera/Coursera_Improving_Deep_Neural_Networks_Hyperparameter_Tuning_Regulariation_and_Optimization.pdf)
 * [Coursera Structuring Machine Learning Projects](Coursera/Coursera_Structuring_Machine_Learning_Projects.pdf)
