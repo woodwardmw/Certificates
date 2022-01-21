@@ -6,6 +6,9 @@
 * [Coursera Convolutional Neural Networks](Coursera/Coursera_Convolutional_Neural_Networks.pdf)
 * [Coursera Sequence Models](Coursera/Coursera_Sequence_Models.pdf)
 
+## Natural Language Processing Specialization
+* [Coursera Natural Language Processing with Classification and Vector Spaces](Coursera_Natural_Language_Processing_with_Classification_and_Vector_Spaces.pdf)
+
 ## IBM Data Engineering Professional Certificate
 * [Coursera Introduction to Data Engineering](Coursera/Coursera_Introduction_to_Data_Engineering.pdf)
 * [Coursera Python for Data Science, AI and Development](Coursera/Coursera_Python_for_Data_Science_AI_and_Development.pdf)
