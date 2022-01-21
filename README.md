@@ -7,7 +7,7 @@
 * [Coursera Sequence Models](Coursera/Coursera_Sequence_Models.pdf)
 
 ## Natural Language Processing Specialization
-* [Coursera Natural Language Processing with Classification and Vector Spaces](Coursera_Natural_Language_Processing_with_Classification_and_Vector_Spaces.pdf)
+* [Coursera Natural Language Processing with Classification and Vector Spaces](Coursera/Coursera_Natural_Language_Processing_with_Classification_and_Vector_Spaces.pdf)
 
 ## IBM Data Engineering Professional Certificate
 * [Coursera Introduction to Data Engineering](Coursera/Coursera_Introduction_to_Data_Engineering.pdf)
