@@ -10,6 +10,7 @@
 * [Coursera Natural Language Processing with Classification and Vector Spaces](Coursera/Coursera_Natural_Language_Processing_with_Classification_and_Vector_Spaces.pdf)
 
 ## IBM Data Engineering Professional Certificate
+I started this certificate, but put it on hold after 4/13 courses, to focus instead on Deep Learning and NLP.
 * [Coursera Introduction to Data Engineering](Coursera/Coursera_Introduction_to_Data_Engineering.pdf)
 * [Coursera Python for Data Science, AI and Development](Coursera/Coursera_Python_for_Data_Science_AI_and_Development.pdf)
 * [Coursera Python Project for Data Engineering](Coursera/Coursera_Python_Project_for_Data_Engineering.pdf)
