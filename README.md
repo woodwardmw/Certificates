@@ -6,7 +6,7 @@
 * [Coursera Convolutional Neural Networks](Coursera/Coursera_Convolutional_Neural_Networks.pdf)
 * [Coursera Sequence Models](Coursera/Coursera_Sequence_Models.pdf)
 
-## Natural Language Processing Specialization
+## Natural Language Processing Specialization ([Certificate](Coursera/Natural_Language_Processing_Specialization.pdf))
 * [Coursera Natural Language Processing with Classification and Vector Spaces](Coursera/Coursera_Natural_Language_Processing_with_Classification_and_Vector_Spaces.pdf)
 * [Coursera Natural Language Processing with Probabilistic Models](Coursera/Coursera_Natural_Language_Processing_with_Probabilistic_Models.pdf)
 * [Coursera Natural Language Processing with Sequence Models](Coursera/Coursera_Natural_Language_Processing_with_Sequence_Models.pdf)
