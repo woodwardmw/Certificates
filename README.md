@@ -20,7 +20,7 @@ I started this certificate, but put it on hold after 4/13 courses, to focus inst
 * [Coursera Introduction to Relational Databases](Coursera/Coursera_Introduction_to_Relational_Databases.pdf)
 
 ## Other courses
-* [Deep Neural Networks with PyTorch](Coursera/Coursera_Deep_Neural_Networks_With_Pytorch.pdf)
+* [Coursera Deep Neural Networks with PyTorch](Coursera/Coursera_Deep_Neural_Networks_With_Pytorch.pdf)
 
 ## [ML ZoomCamp](https://datatalks.club/courses/2021-winter-ml-zoomcamp.html)
 * [ML ZoomCamp](MLZoomCamp/ML_ZoomCamp_Certificate.pdf)
